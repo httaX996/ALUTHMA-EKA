@@ -9,7 +9,7 @@
     "restart": "pm2 restart CK-MD" 
    }, 
   "dependencies": {
-    "@whiskeysockets/baileys": "7.0.0-rc11",
+    "@whiskeysockets/baileys": "7.0.0-rc14",
     "@adiwajshing/keyed-db": "^0.2.4",
     "sharp": "^0.32.6",
     "jimp": "latest",
