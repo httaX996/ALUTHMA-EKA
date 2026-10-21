@@ -45,7 +45,7 @@ const AUTH_DIR = './auth_info_baileys/';
 
 // Express Server Setup
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 4000;
 
 function runServer() {
     app.get('/', (req, res) => {
